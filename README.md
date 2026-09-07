@@ -5,7 +5,7 @@
 This project documents the full deployment of **LibreNMS** on a Rocky Linux 9.7 homelab node, providing live network monitoring, device availability mapping, and SNMP-based infrastructure visibility across a mixed Linux/Windows environment.
 
 LibreNMS is an open-source, agentless network management system (NMS) that uses SNMP to discover and monitor network devices, servers, and infrastructure. It provides real-time topology maps, interface traffic graphs, CPU/memory health monitoring, and alerting.
-[image of the final result, more images in folder] (https://arturskaufmanis.github.io/LibreNMS-Network-Monitoring-System/images/Screenshot 2026-05-14 181322.jpg)
+[image of the final result, more images in folder] (https://arturskaufmanis.github.io/LibreNMS-Network-Monitoring-System/LibreNMS.jpg)
 ---
 
 ## Lab Environment
